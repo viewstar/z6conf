@@ -1,0 +1,10 @@
+#!/bin/sh
+
+if [ "$LX_ENV" != "true" ]
+then
+	. /ezxlocal/LinXtend/etc/initenv
+fi
+
+SETUP_PATH=$LJ_DATA_PRIVATE/setup
+
+showNotify "z6conf" "欢迎使用Z6优化工具" 1 4

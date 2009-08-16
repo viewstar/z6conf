@@ -1,0 +1,7 @@
+[Desktop Entry]
+BigIcon = icon.png
+Directory = z6conf
+Exec = z6conf
+AniIcon = icon.png
+Name = Z6优化工具
+
